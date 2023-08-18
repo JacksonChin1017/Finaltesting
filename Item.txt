@@ -1,0 +1,5 @@
+itemID,itemName,quantity,expireDate,sellPrice,supplyPrice
+I001,Bamboo,0,2023-11-02,290.0,219.0
+I002,Cheese Cake,-10,2023-11-02,2121,120.0
+I003,Jackson,-999,2024-11-11,2.0,12.0
+I004,伏黑惠,98,9999-12-31,99.0,99.0

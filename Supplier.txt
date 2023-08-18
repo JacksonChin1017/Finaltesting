@@ -1,0 +1,8 @@
+SupplierID,SupplierName,location,itemID,supplyPrice
+S002,a,kl,I001,10
+S003,SB,perak,I003,11.0
+S005,Jackson,KL,I002,50.0
+S005,Jackson,KL,I003,50.0
+S006,LunLun,12121,I001,90.0
+S007,宿傩,Rengoku,I004,99.0
+S007,宿傩,Rengoku,I003,999.0
